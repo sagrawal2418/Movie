@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="rating">Rating</string>
+    <string name="votes">Votes</string>
+    <string name="metascore">Metascore</string>
+    <string name="ok">OK</string>
+    <string name="rated">Rated</string>
+    <string name="released">Released</string>
+    <string name="runtime">Runtime</string>
+    <string name="genre">Genre</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="actors">Actors</string>
+    <string name="language">Language</string>
+    <string name="country">Country</string>
+    <string name="awards">Awards</string>
+    <string name="loading_message">Please wait... </string>
+</resources>
